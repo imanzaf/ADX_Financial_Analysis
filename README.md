@@ -1,8 +1,8 @@
 # ADX Equity Market Analysis
 
-This repository hosts notebooks from my Equity Research project. The project focused on the quantitative and qualitative analysis of the Abu Dhabi Securities Exchange (ADX), comparing the top 5 companies (by market cap) on the exchange in August 2021.
+This repository hosts notebooks from an Equity Research project. The project required the quantitative and qualitative analysis of the Abu Dhabi Securities Exchange (ADX), comparing the top 5 companies (by market cap) on the exchange in August 2021.
 
-N.B. Plotly graphs may not stay persistent in the notebooks uploaded to github, use the links below to view them in the jupyter nb viewer
+N.B. Plotly graphs may not appear in the notebooks in this repository, the links below can be used to view them in the jupyter nb viewer
 
 <br/>
 
