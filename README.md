@@ -6,7 +6,11 @@ This repository hosts notebooks from my Equity Research project. The project foc
 Notebook 1 (Equity Research) is focused on creating comparative visualisations using key company information and financial ratios
 
 ### Stock Price Analysis
-Notebook 2 (Stock Prices) is focused on creating interactive time series plots for the 6-month historical share prices of the stocks in consideration
+Notebook 2 (Stock Prices) is focused on creating interactive time series plots for the 6-month historical share prices of the stocks in consideration.
+
+NB. The link below is to the notebook viewer, as plotly time series graphs are not visible directly in github
+(https://nbviewer.org/github/imanzaf/ADX_Financial_Analysis/blob/main/Notebook_2%20%28Stock%20Prices%29.ipynb)
+
 
 ### Final Presentation
 The powerpoint presentation shows a condensed version of the outcome of the analysis. It includes visualisations made using python as well as microsoft excel.
